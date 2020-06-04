@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.09a7b35f.chunk.css",
+    "main.js": "/static/js/main.8d34b633.chunk.js",
+    "main.js.map": "/static/js/main.8d34b633.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7c0ae09a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7c0ae09a.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.98606807.chunk.js": "/static/js/2.98606807.chunk.js",
+    "static/js/2.98606807.chunk.js.map": "/static/js/2.98606807.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d7186b77379fccf7263152ce8fb52f88.js": "/precache-manifest.d7186b77379fccf7263152ce8fb52f88.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.09a7b35f.chunk.css.map": "/static/css/main.09a7b35f.chunk.css.map",
+    "static/js/2.98606807.chunk.js.LICENSE.txt": "/static/js/2.98606807.chunk.js.LICENSE.txt",
+    "static/media/cloudy-day-1.svg": "/static/media/cloudy-day-1.0af35e78.svg",
+    "static/media/cloudy-day-3.svg": "/static/media/cloudy-day-3.7fd0e682.svg",
+    "static/media/cloudy.svg": "/static/media/cloudy.9f4d5762.svg",
+    "static/media/day.svg": "/static/media/day.539254f2.svg",
+    "static/media/rainy-1.svg": "/static/media/rainy-1.544c7ef4.svg",
+    "static/media/rainy-6.svg": "/static/media/rainy-6.c13b9ec1.svg",
+    "static/media/snowy-1.svg": "/static/media/snowy-1.c2d53a74.svg",
+    "static/media/thunder.svg": "/static/media/thunder.d30350d8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c0ae09a.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.98606807.chunk.js",
+    "static/css/main.09a7b35f.chunk.css",
+    "static/js/main.8d34b633.chunk.js"
+  ]
+}
